@@ -1,0 +1,5 @@
+print("finding the largest number among three numbers")
+a=input("first number")
+b=input("second number")
+c=input("third number")
+print("largest number is:",max(a,b,c))
